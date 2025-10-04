@@ -1,0 +1,7 @@
+E:\visual studio files\HotelStayCalculator\HotelStayCalculator\bin\Debug\HotelStayCalculator.exe.config
+E:\visual studio files\HotelStayCalculator\HotelStayCalculator\bin\Debug\HotelStayCalculator.exe
+E:\visual studio files\HotelStayCalculator\HotelStayCalculator\bin\Debug\HotelStayCalculator.pdb
+E:\visual studio files\HotelStayCalculator\HotelStayCalculator\obj\Debug\HotelStayCalculator.csproj.AssemblyReference.cache
+E:\visual studio files\HotelStayCalculator\HotelStayCalculator\obj\Debug\HotelStayCalculator.csproj.CoreCompileInputs.cache
+E:\visual studio files\HotelStayCalculator\HotelStayCalculator\obj\Debug\HotelStayCalculator.exe
+E:\visual studio files\HotelStayCalculator\HotelStayCalculator\obj\Debug\HotelStayCalculator.pdb
